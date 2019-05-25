@@ -1,6 +1,6 @@
 # my_runner
 MUL - Epitech
 
-Projet réalisé seule
+Projet réalisé en solo
 
-  Obtention du grade B
+Obtention grade B
