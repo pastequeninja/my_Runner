@@ -1,6 +1,7 @@
-# my_runner
-MUL - Epitech
+# My runner - Runner
 
-Projet réalisé en solo
+- ✅ Système de collision
+- ✅ Technique du parallax
+- ⚠️ La mémoire se fait rallouer en boucle : ne peut pas rester ouvert trop longtemps
 
- # Obtention grade B
+ # Obtention grade B 👍🏾
